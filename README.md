@@ -1,9 +1,8 @@
 <p align="center">
+  <img src="https://telegra.ph/file/b97b63b7fd1d32b07c4a6.mp4" />
+  
+### 📞 Contact me
+<a href="https://www.instagram.com/faridmhrdkaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://wa.me/6285890441472" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
-  <a href="https://github.com/Fariiid-M"><img src="https://cardivo.vercel.app/api?name=Farid%20mahardika&description=Hi%20there,%20i%27m%20Fariid%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/6acd1e51aaecd23e49629.jpg&instagram=faridmhrdkaa&github=Fariiid-M&pattern=wiggle&colorPattern=%23eaeaea" /><a>
 
-</p>
 
-```
-
-```
