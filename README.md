@@ -13,10 +13,14 @@
 
 ---
 
-<h2 align="center">Meet Our WhatsApp Robot!</h2>
+<h2 align="center">MuzzaBot Whatsapp</h2>
 <p align="center">
   <img src="https://files.catbox.moe/foosh2.jpg" alt="WhatsApp Robot" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
-  <p align="center">
-    Muzza bot whatsapp, penjaga grup dan penghibur atau peneman jika merasa busan :)
-  </p>
+  <h4 align="center">
+      <a href="https://wa.me/6285890441472?text=.menu" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Muzza Bot - Assist wa"></a>
+    </h4>
+  <br>
+-
+  hs
+-
 </p>
